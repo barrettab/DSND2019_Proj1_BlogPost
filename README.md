@@ -22,10 +22,10 @@ The least expensive is Mattapan
 
 
 # Libraries Used
-pandas
-numpy
-seaborn
-matplotlib.pyplot
+- pandas
+- numpy
+- seaborn
+- matplotlib.pyplot
 
 **See Requirements.txt
 
