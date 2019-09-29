@@ -30,7 +30,7 @@ The least expensive is Mattapan
 **See Requirements.txt
 
 # Blog Post 
-https://medium.com/@barrett.adam199 
+https://medium.com/@barrett.adam199/a-dive-into-the-boston-airbnb-open-dataset-6f089b50e6f
 
 
 # Files In Reop
