@@ -34,9 +34,9 @@ https://medium.com/@barrett.adam199
 
 
 # Files In Reop
-/calendar.csv listings.csv reviews.csv (In Zip File) - Boston data
-BostonAirbnbAnalysis-DSND-Proj_1.ipynb - Ipython Notebook of analysis 
-requirements.txt - Requried libraries 
+- /calendar.csv listings.csv reviews.csv (In Zip File) - Boston data
+- BostonAirbnbAnalysis-DSND-Proj_1.ipynb - Ipython Notebook of analysis 
+- requirements.txt - Requried libraries 
 
 # Acknowledgements
 Data was from Kaggle
