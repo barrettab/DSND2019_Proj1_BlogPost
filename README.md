@@ -29,6 +29,9 @@ matplotlib.pyplot
 
 **See Requirements.txt
 
+# Blog Post 
+https://medium.com/@barrett.adam199 
+
 # Acknowledgements
 Data was from Kaggle
 https://www.kaggle.com/airbnb/boston
