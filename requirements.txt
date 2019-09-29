@@ -1,0 +1,6 @@
+#### ESSENTIAL LIBRARIES FOR MAIN FUNCTIONALITY ####
+
+pandas
+numpy
+seaborn
+matplotlib.pyplot
